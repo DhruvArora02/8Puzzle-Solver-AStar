@@ -1,4 +1,4 @@
-8Puzzle-Solver-AStar
+# 8Puzzle-Solver-AStar
 
 __Project Overview__ -
 
